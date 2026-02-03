@@ -1,4 +1,4 @@
-<h1 align="center">Cryo</h1>
+<h1 align="center">melvin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=520&lines=Self-taught+programmer;Ethical+malware+researcher;Privacy-focused+developer;OSINT+%7C+Reverse+Engineering+%7C+Network+Threats" />
@@ -32,5 +32,4 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00F7FF"/> cyrossh<br>
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF"/> skid@larping.today
 </p>
